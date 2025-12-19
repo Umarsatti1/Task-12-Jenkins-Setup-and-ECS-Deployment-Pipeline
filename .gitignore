@@ -1,8 +1,2 @@
 /node_modules
 package-lock.json
-
-*.tfstate
-*.tfstate.*
-**/.terraform/*
-*.tfvars.json
-*.terraform.lock.hcl
