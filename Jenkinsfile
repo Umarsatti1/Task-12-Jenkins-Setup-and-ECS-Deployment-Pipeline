@@ -1,5 +1,8 @@
 pipeline {
-    agent { label 'slave-node' } // Jenkins agent node label
+    // Jenkins agent node label
+    agent { 
+        label 'slave-node' 
+    }
 
     // Environment variables for AWS and Docker
     environment {
