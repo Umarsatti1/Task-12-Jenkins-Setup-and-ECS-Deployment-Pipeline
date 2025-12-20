@@ -16,7 +16,7 @@ This project demonstrates an end-to-end CI/CD pipeline that automates the build,
 
 The CI/CD workflow follows these steps:
 
-1. Developer pushes code to GitHub  
+1. User pushes code to GitHub  
 2. GitHub webhook triggers Jenkins pipeline  
 3. Jenkins Master schedules the job on a Jenkins Agent  
 4. Jenkins Agent:
